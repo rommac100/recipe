@@ -15,3 +15,13 @@ Equipment:
 
 
 - Time needed for recipe is 1 hr in the oven + 30 minutes sitting out
+
+
+
+
+Bacon Muffin:
+ - Bacon
+ - PLA
+ - Eggs
+ - Blueberries
+ - Milk
